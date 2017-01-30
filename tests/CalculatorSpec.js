@@ -34,7 +34,5 @@ describe( 'calculator', function () {
         } );
       } );
   }
-
  
-    } );
 } );
